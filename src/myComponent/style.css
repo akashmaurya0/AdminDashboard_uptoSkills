@@ -1,0 +1,11 @@
+/* styles.css */
+.myList {
+    background-color: lightgray;
+    padding: 10px;
+  }
+  
+  .myList li {
+    color: rgb(0, 34, 159);
+    font-weight:bolder;
+  }
+  
